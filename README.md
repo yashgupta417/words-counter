@@ -16,6 +16,6 @@ import wordCounter from "word-counter-js"
 
 let s="Hello world"
 console.log(wordCounter(s))
-#output: 2
+//output: 2
 
 ```
