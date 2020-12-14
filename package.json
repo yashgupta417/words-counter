@@ -1,5 +1,5 @@
 {
-  "name": "word-counter",
+  "name": "word-counter-js",
   "version": "1.0.0",
   "description": "Finds the number of words in a string",
   "main": "index.js",
