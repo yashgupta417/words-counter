@@ -11,7 +11,7 @@ npm install word-counter-js
 
 ## Usage
 
-```
+```javascript
 import wordCounter from "word-counter-js"
 
 let s="Hello world"
